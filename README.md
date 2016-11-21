@@ -1,2 +1,2 @@
 # Learning-Python
-Recording learned steps.
+Recorded learning steps.
