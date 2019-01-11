@@ -1,0 +1,5 @@
+1.for循环中做正序：
+for index in range(len(list)):
+
+2.for循环中做倒序：
+for index in range(len(List)-1,0,-1):
