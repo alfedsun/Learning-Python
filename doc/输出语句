@@ -1,0 +1,6 @@
+1.print()
+
+2.sys.stdout.write(x+'\n')
+#!/usr/bin/python3
+ 
+import sys; x = 'runoob'; sys.stdout.write(x + '\n')
